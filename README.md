@@ -25,6 +25,12 @@ src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=
 
 ---
 
+## 🚀 Citação
+
+> _Se uma máquina puder pensar, poderá pensar de forma mais inteligente do que nós, e então, onde estaríamos?_ - Alan Turing
+
+---
+
 ## 🌐 Onde você pode me encontrar
 <p align="left">
   <a href="https://github.com/almedasamuel0-stack">
@@ -39,4 +45,4 @@ src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=
   </a>
 </p>
 
----
+🤝 Sempre aberto para colaborações e parcerias
