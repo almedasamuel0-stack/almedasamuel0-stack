@@ -32,7 +32,7 @@ src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=
   </a>
   <a href="www.linkedin.com/in/samuel-almeida-3150003b1">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <a href="almedasamuel0@gmail.com">
+  <a href="mailto:almedasamuel0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
