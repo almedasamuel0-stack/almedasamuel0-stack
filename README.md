@@ -34,6 +34,8 @@ src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="mailto:almedasamuel0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://lattes.cnpq.br/3454547814038259">
+    <img src="https://img.shields.io/badge/Currículo_Lattes-326589?style=for-the-badge&logo=academia&logoColor=white"/>
   </a>
 </p>
 
