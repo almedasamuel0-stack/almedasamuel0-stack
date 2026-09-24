@@ -12,17 +12,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 <img align="center" alt="CSS" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="VSCODE" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-<img align="center" alt="C" height="40" width="40"
-src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 </div>
 
 ---
 
 ## 📊 Meus Git Stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=almedasamuel0-stack&rank_icon=github&custom_title=Meu%20Status%20no%20Github&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=almedasamuel0-stack&rank_icon=github&custom_title=Meu%20Status%20no%20Github&show_icons=true&include_all_commits=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=almedasamuel0-stack&layout=compact&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=almedasamuel0-stack&layout=compact&langs_count=4&theme=gruvbox)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=almedasamuel0-stack&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=almedasamuel0-stack&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=almedasamuel0-stack&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=almedasamuel0-stack&langs_count=4&theme=dark_github)
 ---
 
 ## 🚀 Citação
@@ -42,7 +39,7 @@ src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <a href="https://lattes.cnpq.br/3454547814038259">
     <img src="https://img.shields.io/badge/Currículo_Lattes-326589?style=for-the-badge&logo=academia&logoColor=white"/>
+  <a href="https://leetcode.com/u/samuel-almeida/">
+    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
   </a>
 </p>
-
-🤝 Sempre aberto para colaborações e parcerias
