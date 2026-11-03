@@ -1,34 +1,9 @@
 # 👋Olá, eu sou Samuel Almeida
-- 📚 Estudante de Graduação em Ciência e Tecnologia - Unifesp | Desenvolvimento de Sistemas - ETEC
+- 📚 Estudante de Graduação em Ciência e Tecnologia - Unifesp | Técnico em Desenvolvimento de Sistemas - ETEC
 - 🧠 Focado no aprendizado de algoritimos e estruturas de dados
 - 🛠️ Interesse especial em **projetos web** e **desenvolvimento full-stack**
 - 📖 Gosto de ler livros, aprender curiosidades e novas habilidades
 
-## 📝Tecnologias que estudo
-<img align="center" alt="Python" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="HTML" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="VSCODE" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-</div>
-
----
-
-## 📊 Meus Git Stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=almedasamuel0-stack&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=almedasamuel0-stack&include_all_commits=true&theme=dark_github)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=almedasamuel0-stack&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=almedasamuel0-stack&langs_count=4&theme=dark_github)
----
-
-## 🚀 Citação
-
-> _Se uma máquina puder pensar, poderá pensar de forma mais inteligente do que nós, e então, onde estaríamos?_ - Alan Turing
-
----
-
-## 🌐 Onde você pode me encontrar
 <p align="left">
   <a href="https://github.com/almedasamuel0-stack">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -43,3 +18,23 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
     <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
   </a>
 </p>
+
+## 📝Tecnologias que estudo
+<div>
+  <img align="center" alt="Python" height="40" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="40" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="VSCODE" height="40" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+</div>
+
+## 📊 Meus Git Stats
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=almedasamuel0-stack&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=almedasamuel0-stack&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=almedasamuel0-stack&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=almedasamuel0-stack&langs_count=4&theme=dark_github)
+---
+## 🚀 Citação
+
+> _Se uma máquina puder pensar, poderá pensar de forma mais inteligente do que nós, e então, onde estaríamos?_ - Alan Turing
